@@ -11,5 +11,10 @@
   "license": "ISC"
   "devDependencies": {
     "electron": "^1.7.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindasimp1/TaskList.git",
+    "homepage":"https://github.com/lindasimp1/TaskList#readme",
+
 }
