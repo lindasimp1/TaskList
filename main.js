@@ -36,7 +36,7 @@ app.on('ready', function(){
     mainWindow.on('closed', function(){
         mainWindow = null
     })
-})
+}
 const template = [
     {
         label: "File",
